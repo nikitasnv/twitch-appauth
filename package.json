@@ -1,0 +1,14 @@
+{
+  "name": "twitch-appauth",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@openid/appauth": "^1.2.6",
+    "@types/node": "*"
+  },
+  "scripts": {
+    "start": "node example.js",
+    "build": "tsc node_request_handler.ts"
+  }
+}

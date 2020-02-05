@@ -1,0 +1,6 @@
+.idea
+.vscode
+options.json
+yarn.lock
+node_modules
+.npmignore
